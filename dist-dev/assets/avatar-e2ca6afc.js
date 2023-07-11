@@ -1,0 +1,2 @@
+const s="/dist-dev/assets/avatar-3e7710d1.jpg";export{s as _};
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiYXZhdGFyLWUyY2E2YWZjLmpzIiwic291cmNlcyI6WyIuLi8uLi9zcmMvYXNzZXRzL2ltZ3MvYXZhdGFyLmpwZyJdLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnQgZGVmYXVsdCBcIl9fVklURV9BU1NFVF9fZDNiMzljOGRfX1wiIl0sIm5hbWVzIjpbIl9pbXBvcnRzXzAiXSwibWFwcGluZ3MiOiJBQUFBLE1BQWVBLEVBQUEifQ==
