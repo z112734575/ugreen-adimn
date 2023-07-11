@@ -65,7 +65,7 @@ git clone https://github.com/kailong321200875/vue-element-plus-admin.git
 - Installation dependencies
 
 ```bash
-cd vue-element-plus-admin
+cd ugreen-admin
 
 pnpm install
 
